@@ -1,4 +1,4 @@
-1 Jonathan Nassau
-2 Jack Blanton
-3 Reid Litowitz
-4 Henry Borgeson
+1	Jonathan Nassau
+2	Jack Blanton
+3	Reid Litowitz
+4	Henry Borgeson

@@ -2,3 +2,14 @@
 2	Jack Blanton
 3	Reid Litowitz
 4	Henry Borgeson
+5	Ben Earley
+6	Nick Dayno
+7	Jung Kim
+8	Alex Kent
+9	Rob Griffon
+10	Justin Tecson
+11	Max Cuttler
+12	Garrett Short
+13	Michael Dunn
+14	Jon Goetchius
+15	Michael Meholick

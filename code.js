@@ -119,7 +119,7 @@ function enableButton(name, state) {
 
 function validate() {
     var scores = getScores();
-    var valid = (scores[0] === 5 && scores[1] !== 5) || (scores[0] !== 5 && scores[1] === 5);
+    var valid = (scores[0] === 10 && scores[1] !== 10) || (scores[0] !== 10 && scores[1] === 10);
     if (valid) {
         var selectedPlayers = getSelectedPlayers();
         if (typeof selectedPlayers === 'string') {

@@ -1,17 +1,17 @@
-0	Jonathan Nassau
-1	Garrett Short
-2	Jung Kim
-3	Scott Levine
-4	Patrick Donovan
-5	Justin Tecson
-6  	Michael ‘Mike’ Dunn
+0 Nassau
+1 Garrett Short
+2 Jung Kim
+3 Scott Levine
+4 Patrick Donovan
+5 Justin Tecson
+6 Michael ‘Mike’ Dunn
 7	Zach Dove
 8	Matt Cott
 9	Masudur Rahman
-10	Ben Earley
-11 	Jimbo
-12	Cuttler
-13	Jun
-14	Linzon
-15	Rob Griffon
-16 	Brett Rapp
+10  Ben Earley
+11  Jimbo
+12  Cuttler
+13  Jun
+14  Linzon
+15  Rob Griffon
+16  Brett Rapp
